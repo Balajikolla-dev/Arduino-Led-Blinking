@@ -4,7 +4,7 @@ Void setup(){
 
 Void loop(){
   DigitalWrite(13,HIGH);
-  Delay(1000);
+  Delay(500);
   DigitalWrite(13,LOW);
-  Delay(1000);
+  Delay(500);
 }
