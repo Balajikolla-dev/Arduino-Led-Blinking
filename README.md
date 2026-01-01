@@ -1,2 +1,12 @@
 # Arduino-Led-Blinking
-Simple Arduino blinking uning uno
+This is my first project using github
+Simple Arduino blinking uning Arudino uno
+
+# Components required 
+- Arudino Uno board.
+- 220 ohm resistor. 
+- LED.
+
+
+# Author 
+Balaji Kolla
