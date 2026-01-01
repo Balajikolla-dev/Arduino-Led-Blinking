@@ -10,7 +10,7 @@ Simple Arduino blinking uning Arudino uno
 ## Working
 The LED blink every 0.5 Seconds
 
-##
+## Last Update
 Blink Speed modified
 
 # Author 
